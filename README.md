@@ -1,4 +1,3 @@
 # Consultar CEP
-Esse projeto foi desenvolvido para a consulta de CEP, onde a cada pesquisa ele mostra a Rua, Complemento(se tiver), Bairro, Estado e UF.
-
-Desenvolvido em React, estilizado com Styled Components e o consumo de uma API para os CEP's.
+Este projeto foi desenvolvido para realizar consultas de CEP. A cada pesquisa, ele exibe informações como Rua, Complemento (quando disponível), Bairro, Estado e UF.
+O projeto foi implementado utilizando React para a interface, com estilização feita por meio do Styled Components, e faz consumo de uma API para buscar os dados dos CEPs
